@@ -1,0 +1,12 @@
+.idea/
+Temp/
+Logs/
+ProjectSettings/
+Library/
+Packages/
+obj/
+UserSettings/
+Assets/TextMesh Pro/
+
+*.mat
+*.meta
